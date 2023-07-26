@@ -63,6 +63,8 @@ public class Main {
                 .average()
                 .orElse(0);
         System.out.println("\nMédia de idade das pessoas da lista: " + mediaIdade);
+
+        System.out.println("\nExercício do Itaú-mentoria realizado com sucesso!");
         
     }
 
